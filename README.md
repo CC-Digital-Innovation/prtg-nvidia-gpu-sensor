@@ -113,7 +113,7 @@ http_rest_post_url = 'http://{}:{}/{}'.format(
 
 - HTTP Push Data Advanced sensor type (```sensor_type = "http"```)
 
-_Note: This code was built and tested on Windows 10 using the PRTG Python 3.7.7 32-bit interpreter.
+_Note: This code was built and tested on Windows 10 using the PRTG Python 3.7.7 32-bit interpreter._
 
 ## Disclaimer
 
