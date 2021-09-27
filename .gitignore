@@ -1,0 +1,25 @@
+# vscde
+.vscode
+# Ignore all vscode local history of files
+**/.history
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+# ignore log and archive directories
+log/
+archive/
+# ignore log files
+*.log
+# ignore backup files
+*.bak*
+*.backup
+# ignore ini files
+*.ini
+# ignore xml and json files
+*.xml
+*.json
+# ignore csv files
+*.csv
+# ignore commit.sh and commit.bat
+commit.sh
+commit.bat
